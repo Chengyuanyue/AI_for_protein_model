@@ -6,9 +6,7 @@
 ---
 
 ## 🧬 蛋白质 AI 模型发展时间线（核心概览）
-<p align="center">
-  <img width="1497" height="646" alt="image" src="https://github.com/user-attachments/assets/b136619e-f50f-4804-82ff-56f45c1c358e" />
-</p>
+<img width="1497" height="646" alt="image" src="https://github.com/user-attachments/assets/b136619e-f50f-4804-82ff-56f45c1c358e" />
 
 上图展示了蛋白质 AI 模型自 **2018 年以来的发展脉络**，从结构预测突破（AlphaFold）到蛋白语言模型、扩散模型及新一代统一框架的演进过程。
 
